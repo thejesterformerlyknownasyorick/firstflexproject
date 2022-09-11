@@ -26,7 +26,7 @@
 .quote-container {
     background-color: #E5E7EB;
     margin-top: 40px;
-    padding: 70px 350px;
+    padding: 5rem 20%;
 }
 
 .bottom {
@@ -67,7 +67,7 @@
 .containers {
     display: flex;
     justify-content: space-evenly;
-    gap: 40px;
+    gap: 1%;
 }
 
 .info {
